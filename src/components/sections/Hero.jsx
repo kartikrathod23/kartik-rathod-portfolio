@@ -63,7 +63,7 @@ export default function Hero() {
               </a>
 
               <a
-                href="/resume.pdf"
+                href="https://drive.google.com/file/d/1bm2dZOi3wAGjX8T9WOovODqX3c0xnCH-/view?usp=sharing"
                 className="px-5 py-3 rounded-lg border text-lg border-white/40 hover:border-white/20 transition text-gray-300"
               >
                 Resume
