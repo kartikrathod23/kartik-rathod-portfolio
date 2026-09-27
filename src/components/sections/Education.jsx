@@ -49,7 +49,7 @@ export default function Education() {
               </p>
               <p className="mt-3 text-gray-300">2023 – 2027</p>
               <p className="mt-2 text-lg font-medium text-indigo-400">
-                CGPA: 8.76 / 10
+                CGPA: 8.84 / 10
               </p>
             </div>
 

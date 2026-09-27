@@ -17,14 +17,13 @@ export default function Hero() {
           >
             {/* SMALL INTRO + TYPING (SUBTLE) */}
             <p className="text-2xl text-gray-400 mb-3">
-              Hi, I’m <span className="text-gray-200 font-medium">Kartik Rathod,</span>{""}
+              Hi, I’m <span className="text-gray-200 font-medium">Kartik Rathod,</span>
               <span className="ml-2 text-indigo-400 text-2xl">
                 <Typewriter
                   words={[
-                    "Full Stack Developer",
-                    "DSA Enthusiast",
+                    "AI-Native Software Developer",
+                    "Backend Developer",
                     "Problem Solver",
-
                   ]}
                   loop={0}
                   cursor
@@ -36,21 +35,21 @@ export default function Hero() {
               </span>
             </p>
 
-            {/* MAIN HEADLINE (UNCHANGED, STRONG) */}
+            {/* MAIN HEADLINE */}
             <h1 className="text-5xl md:text-6xl font-bold leading-tight">
               <span className="block text-gray-400">
-                I build scalable
+                I build AI-powered
               </span>
               <span className="text-indigo-400">
-                full-stack web applications
+                scalable software applications
               </span>
             </h1>
 
             {/* DESCRIPTION */}
             <p className="mt-6 text-lg text-gray-400 max-w-xl">
-              Product-focused Full Stack Engineer specializing in MERN stack,
-              with internship experience building scalable web applications
-              and production-ready features used by real users.
+              AI-native software developer focused on building scalable applications
+              that combine modern software engineering with generative AI, intelligent
+              automation, and production-ready systems.
             </p>
 
             {/* CTA */}
@@ -63,7 +62,7 @@ export default function Hero() {
               </a>
 
               <a
-                href="https://drive.google.com/file/d/1bm2dZOi3wAGjX8T9WOovODqX3c0xnCH-/view?usp=sharing"
+                href="https://drive.google.com/file/d/1_KUO1S-20gfB9i0tc7fAY-KXY5TButNS/view?usp=sharing"
                 className="px-5 py-3 rounded-lg border text-lg border-white/40 hover:border-white/20 transition text-gray-300"
               >
                 Resume
@@ -91,7 +90,7 @@ export default function Hero() {
             className="flex justify-center md:justify-end"
           >
             <img
-              src="/images/profile2.png"
+              src="/images/professional-photo.png"
               alt="Kartik Rathod"
               className="
                 w-72 h-72

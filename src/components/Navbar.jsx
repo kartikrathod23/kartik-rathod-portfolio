@@ -48,7 +48,7 @@ export default function Navbar() {
 
           {/* Resume */}
           <a
-            href="https://drive.google.com/file/d/1bm2dZOi3wAGjX8T9WOovODqX3c0xnCH-/view?usp=sharing"
+            href="https://drive.google.com/file/d/1_KUO1S-20gfB9i0tc7fAY-KXY5TButNS/view?usp=sharing"
             target="_blank"
             className="hidden sm:flex items-center gap-2 px-4 py-2 rounded-lg border border-white/10 hover:border-white/20 transition text-gray-300 text-md"
           >
